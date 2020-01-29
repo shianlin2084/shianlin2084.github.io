@@ -2,7 +2,6 @@
 title: The Blog of ShianLin2084
 SEOTitle: 林木的博客 | The Blog of ShianLin2084
 header-img: img/post-bg-desk.jpg
-# email: 2098612496@qq.com
 description: "Practice makes perfect."
 keyword: "ShianLin2084, ShianLin Blog, 林木的博客, linmu, machine learning, algorithm, data analysis"
 url: "http://shianlin2084.github.io"          # your host, for absolute URL
@@ -57,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: shianlin2084
+disqus_username: shianlin2084
 
 # Gitalk
 gitalk:
