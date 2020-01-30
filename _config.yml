@@ -63,7 +63,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID:ef0bc92807bd8bce0536
   clientSecret:b59d20d9425eb4131a3b2eaaca2fb1f9ea3f85c2
-  repo:blogrepo    #仓库名称
+  repo:https://github.com/shianlin2084/blogrepo
   owner:shinalin2084   #github用户名
   admin:shianlin2084
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
